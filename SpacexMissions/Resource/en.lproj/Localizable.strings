@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  SpacexMissions
+
+  Created by Florin Uscatu on 15.06.2022.
+  Copyright © 2022 Florin-Alexandru Uscatu. All rights reserved.
+*/
+
+"generalError" = "Oops, something went wrong";
+"networkError" = "There's a problem with the network";
+"company" = "Company";
+"launches" = "Launches";
+"companyInfo" = "%@ was founded by %@ in %@. It has now %@ employees, %@ launch sites, and is valued at USD %@";
+"mission" = "Mission";
+"dateTime" = "Date/time";
+"rocket" = "Rocket";
+"daysFromNow" = "Days from now";
+"daysSinceLaunch" = "Days since launch";
+"at" = "at";
+"wikipedia" = "Wikipedia";
+"article" = "Article";
+"video" = "Video";
+"cancel" = "Cancel";
+"from" = "From:";
+"to" = "To:";
+"done" = "Done";
+"successfulLaunches" = "Only successful launches";
+"order" = "Order";
+"asc" = "Asc.";
+"dsc" = "Des.";
